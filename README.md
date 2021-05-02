@@ -1,4 +1,4 @@
-# -11-1108-ssnn-11-1108-ssnn-
+# Steam-11 Group-1108 Names: Charlie, Seongrok, and Jason
 Charlie, Jason, and Seongrok's website for Assignment 3 - COMP501
 
 # How to navigate this GitHub
