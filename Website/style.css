@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(255, 247, 223);
+}
+
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    list-style-type: none;
+    border: solid;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 15px;
+    margin: 0;
+    padding: 0;
+    max-width: 150px;
+    width: 15%;
+    min-width: 50px;
+    background-color: #ffd0005b;
+}
+  
+li a {
+    display: block;
+    color: #000;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: rgb(0, 25, 71);
+    color: white;
+    border: dotted;
+    border-width: 2px;
+    border-color: gold;
+    border-radius: 100px;
+}
