@@ -16,6 +16,7 @@ ul {
     width: 15%;
     min-width: 50px;
     background-color: #ffd0005b;
+    float: left;
 }
   
 li a {
@@ -32,4 +33,23 @@ li a:hover {
     border-width: 2px;
     border-color: gold;
     border-radius: 100px;
+}
+
+h1,p.content {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-right: 25%;
+}
+
+h1 {
+    margin-left: 17%;
+}
+
+p.content {
+    font-size: 20px;
+    margin-left: 20%;
+}
+
+a.References {
+    float: left;
+    margin-top: 100%;
 }
