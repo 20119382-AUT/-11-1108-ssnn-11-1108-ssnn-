@@ -13,8 +13,8 @@ ul {
     margin: 0;
     padding: 0;
     max-width: 150px;
-    width: 15%;
-    min-width: 50px;
+    min-width: 100px;
+    width: 18%;
     background-color: #ffd0005b;
     float: left;
 }
@@ -41,7 +41,7 @@ h1,p.content {
 }
 
 h1 {
-    margin-left: 17%;
+    margin-left: 18%;
 }
 
 p.content {
