@@ -60,11 +60,29 @@ a.References {
     margin-top: 100%;
 }
 
-table,
+/* table,
 th,
 td {
     margin-left: 20%;
     padding: 10px;
     border: 1px solid black;
     border-collapse: collapse;
-}
+} */
+
+table {
+    border-collapse: collapse;
+    width: 60%;
+    margin-left: 20%;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even){background-color: #f2f2f2}
+  
+  th {
+    background-color: #4CAF50;
+    color: white;
+  }
