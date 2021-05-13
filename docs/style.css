@@ -57,6 +57,7 @@ a.References {
 table,
 th,
 td {
+    margin-left: 20%;
     padding: 10px;
     border: 1px solid black;
     border-collapse: collapse;
