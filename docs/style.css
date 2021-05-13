@@ -71,7 +71,7 @@ td {
 
 table {
     border-collapse: collapse;
-    width: 60%;
+    width: 80%;
     margin-left: 20%;
   }
   
@@ -83,6 +83,6 @@ table {
   tr:nth-child(even){background-color: #f2f2f2}
   
   th {
-    background-color: #4CAF50;
-    color: white;
+    background-color: #ffd0005b;
+    color: black;
   }
