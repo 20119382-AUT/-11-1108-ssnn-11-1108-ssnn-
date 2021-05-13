@@ -49,6 +49,12 @@ p.content {
     margin-left: 20%;
 }
 
+iframe {
+    height: 500px;
+    width: 70%;
+    margin-left: 10%;
+}
+
 a.References {
     float: left;
     margin-top: 100%;
