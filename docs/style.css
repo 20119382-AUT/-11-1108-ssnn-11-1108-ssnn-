@@ -7,10 +7,6 @@ div {
     text-align: center;
 }
 
-img.logo {
-    height: 20px;
-}
-
 ul {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
@@ -83,16 +79,26 @@ table {
     width: 80%;
     margin-left: 15%;
     margin-right: 10%;
-  }
-  
-  th, td {
+}
+
+th, td {
+    font-family: Arial, Helvetica, sans-serif;
     text-align: left;
     padding: 8px;
-  }
-  
-  tr:nth-child(even){background-color: #00000015}
-  
-  th {
+}
+
+tr:nth-child(even){background-color: #00000015}
+
+th {
     background-color: darkblue;
     color: rgb(255, 255, 255);
-  }
+}
+
+img.git {
+    width: 200px;
+}
+
+img.meeting {
+    max-width: 700px;
+    width: 80%;
+}
